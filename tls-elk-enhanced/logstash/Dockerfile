@@ -1,0 +1,1 @@
+FROM ctigalaxy/cosmos:logstashupdatedv1.1

@@ -1,0 +1,1 @@
+FROM ctigalaxy/cosmos:kibanazinv1.0

@@ -1,0 +1,1 @@
+FROM ctigalaxy/cosmos:elasticsearchzinv1.1
